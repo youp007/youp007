@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Youp Klingens
 
 ## 🚀 About Me
-I'm a passionate developer working on various projects, including Air-byte and Oxygen. I also have experience with Minecraft scripting and running a radio station! 🎧🎮
+I'm a passionate developer working on various projects, including Air-byte and Oxygen. I also have experience with Minecraft scripting! 🎧🎮
 
 ## 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-Add%20Me-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/438121766339084289)
@@ -10,9 +10,6 @@ I'm a passionate developer working on various projects, including Air-byte and O
 ## 📊 GitHub Stats
 ![Youp's GitHub stats](https://github-readme-stats.vercel.app/api?username=youp007&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youp007&layout=compact&theme=transparent)
-
-## status
-![Discord Status](https://img.shields.io/badge/dynamic/json?color=7289DA&label=Discord&query=status&url=https%3A%2F%2Fdiscord.com%2Fapi%2Fusers%2F438121766339084289)
 
 ## 🛠️ Tech Experience
 - **Languages:** JavaScript, PHP, HTML, CSS, Node.js
