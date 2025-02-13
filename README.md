@@ -13,7 +13,7 @@ I'm a passionate developer working on various projects, including Air-byte and O
 
 ## 🛠️ Tech Experience
 - **Languages:** JavaScript, PHP, HTML, CSS, Node.js
-- **Frameworks & Tools:** Express.js, TailwindCSS, MySQL, Git
+- **Tools:** Git,Vscode, Discord, Pterodactyle
 
 ### 📚 Currently Learning
 - **Languages:** Python, TypeScript
