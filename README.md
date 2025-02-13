@@ -12,7 +12,7 @@ I'm a passionate developer working on various projects, including Air-byte and O
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youp007&layout=compact&theme=transparent)
 
 ## status
-[![Discord Presence](https://lanyard.cnrad.dev/api/438121766339084289)](https://discord.com/users/438121766339084289)
+![Discord Status](https://img.shields.io/badge/dynamic/json?color=7289DA&label=Discord&query=status&url=https%3A%2F%2Fdiscord.com%2Fapi%2Fusers%2F438121766339084289)
 
 ## 🛠️ Tech Experience
 - **Languages:** JavaScript, PHP, HTML, CSS, Node.js
