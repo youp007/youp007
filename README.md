@@ -11,9 +11,14 @@ I'm a passionate developer working on various projects, including Air-byte and O
 ![Youp's GitHub stats](https://github-readme-stats.vercel.app/api?username=youp007&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youp007&layout=compact&theme=transparent)
 
-## 🎮 Discord Status
-![Discord Status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/profile/438121766339084289)
+<br>
+<div align="center">
 
+<a href="https://discord.com/users//438121766339084289">
+    <img align="center" src="https://discord.c99.nl/widget/theme-3/438121766339084289.png"> 
+</a>
+
+<br>
 ## 🛠️ Tech Experience
 - **Languages:** JavaScript, PHP, HTML, CSS, Node.js
 - **Frameworks & Tools:** Express.js, TailwindCSS, MySQL, Git
